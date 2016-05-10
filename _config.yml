@@ -5,10 +5,4 @@ color:
   lightness: 0.4964617
   brandStrength: 0.5612079
   rhythmicContrast: 0.1440778
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-name: MartialArts
+name: Martial Arts
