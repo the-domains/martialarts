@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MartialArts]]></title>
+        <description><![CDATA[MartialArts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 04:56:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Savate Boxe Française ]]></title>
+            <description><![CDATA[<article><h1>Savate Boxe Française </h1><p>Savate - Training in kickboxing at Titan Gym</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=TPUjwb1P_hA&amp;feature=share</link>
+            <guid isPermaLink="false">9ab527fb-d71c-42a6-8021-3660052fd697</guid>
+            <pubDate>Tue, 10 May 2016 04:56:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
