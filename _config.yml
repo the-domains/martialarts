@@ -1,8 +1,24 @@
+name: Martial Arts
+favicon: null
 layout_spectrum: 0.640257
 typography_spectrum: 0.6784143
+title: Titan Gym's Martial Arts Programs
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8291227
-  lightness: 0.4964617
+  brandColors: []
   brandStrength: 0.5612079
+  lightness: 0.4964617
+  saturation: 0.8291227
   rhythmicContrast: 0.1440778
-name: Martial Arts
+purpose: []
